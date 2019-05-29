@@ -1,0 +1,8 @@
+[gd_resource type="Environment" format=2]
+
+[resource]
+fog_enabled = true
+tonemap_mode = 3
+ss_reflections_enabled = true
+ssao_enabled = true
+adjustment_enabled = true
